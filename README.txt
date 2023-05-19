@@ -9,8 +9,8 @@ Migrations com Flyway(cuida das criações de tabela pela aplicação,
 cria uma tabela com histórico do que já foi feito )
 postgre
 
-Obs: BackEnd ainda não concluído, foi criada a entidade "Empresa"
-com comando de GET e POST.
+Obs: Criadas as entidades "Empresa" e "Fornecedor"
+com comandos de GET e POST.
 
 ***FrontEnd
 react
@@ -19,10 +19,9 @@ typescript
 vscode
 axios (dispara requisições HTTP)
 
-Obs: FrontEnd ainda não concluído, apenas botão de inclusão concluído,
-o mesmo abre um formulário para preenchimento com Nome Fantasia, CNPJ
-e CEP da empresa, faltam botões de deleção e alteração de empresas, 
-tela sem erros mas carregando em branco. 
-
+Obs: Apenas botão de inclusão concluído, o mesmo abre um formulário 
+para preenchimento com Nome Fantasia, CNPJ e CEP da empresa, faltam 
+botões de deleção e alteração de empresas, tela sem erros mas 
+carregando em branco. 
 
 
